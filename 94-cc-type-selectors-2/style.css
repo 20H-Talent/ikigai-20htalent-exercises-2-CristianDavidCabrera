@@ -6,3 +6,8 @@ body{
 p{
     color: lightslategrey;
 }
+
+header{
+    background-color: orange;
+    color: white;
+}
