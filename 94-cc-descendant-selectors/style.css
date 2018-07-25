@@ -7,3 +7,7 @@
 .main-content p{
     font-weight: bold;
 }
+
+.footer-main footer{
+    color: slategrey;
+}
