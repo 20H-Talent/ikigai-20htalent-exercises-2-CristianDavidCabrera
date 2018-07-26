@@ -7,3 +7,7 @@
 div.wildlife {
     border: 10px solid orange;
 }
+
+div.secondary-content {
+    padding: 80px 70px;
+}
