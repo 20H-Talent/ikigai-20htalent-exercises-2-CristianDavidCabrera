@@ -1,1 +1,5 @@
 /* Complete the challenge by writing CSS below */
+.primary-content {
+    padding: 25px;
+    bottom: 95px;
+}
