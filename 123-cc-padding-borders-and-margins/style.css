@@ -15,3 +15,7 @@ div.secondary-content {
 .wildlife{
     margin-top: 105px;
 }
+
+.secondary-content {
+    border: 2px dotted lightgrey;
+}
