@@ -8,3 +8,7 @@ span.intro {
     font-weight: bold;
     font-style: italic;
 }
+
+a:link {
+    text-decoration: none;
+  }
