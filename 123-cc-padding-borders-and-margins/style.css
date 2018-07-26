@@ -3,3 +3,7 @@
     padding: 25px;
     bottom: 95px;
 }
+
+div.wildlife {
+    border: 10px solid orange;
+}
