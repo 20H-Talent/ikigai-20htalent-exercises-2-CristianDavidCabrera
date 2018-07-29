@@ -3,7 +3,12 @@
 header {
     text-align: center;
   }
-  .logo {
+
+.logo {
     width: 110px;
     margin: auto;
-  }
+}
+
+.main-nav {
+    display: inline;
+}
