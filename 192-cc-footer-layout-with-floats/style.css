@@ -4,6 +4,9 @@
     float: left;
     display: block;
 }
+footer {
+    overflow: hidden;
+}
 
 .logo {
     float: right;
