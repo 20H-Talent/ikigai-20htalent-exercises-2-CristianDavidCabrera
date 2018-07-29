@@ -9,6 +9,6 @@ header {
     margin: auto;
 }
 
-.main-nav {
-    display: inline;
+.main-nav, .main-nav line {
+    display: inline-block;
 }
