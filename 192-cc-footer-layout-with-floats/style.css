@@ -1,5 +1,9 @@
 /* Complete the challenge by writing CSS below */
 
+.copyright {
+    clear: both;
+}
+
 .footer-nav {
     float: left;
     display: block;
