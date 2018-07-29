@@ -7,6 +7,7 @@ header {
 .logo {
     width: 110px;
     margin: auto;
+    display: block;
 }
 
 .main-nav, .main-nav line {
