@@ -3,6 +3,11 @@
 .row {
     display: flex;
 }
-.colum{
+
+.colum {
     flex-grow: 1;
+}
+
+.primary {
+    flex-grow: 2;
 }
