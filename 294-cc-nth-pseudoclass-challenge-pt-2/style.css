@@ -4,7 +4,7 @@
     img {
         float: left;
     }
-    img:nth-child(3n+4) {
+    img:only-child(3n+4) {
         clear: left;
     }
 }
