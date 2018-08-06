@@ -3,3 +3,7 @@
 img[title="product-"] {
     border: lightblue;
 }
+
+a[href$=".html"]{
+    text-decoration: none;
+}
