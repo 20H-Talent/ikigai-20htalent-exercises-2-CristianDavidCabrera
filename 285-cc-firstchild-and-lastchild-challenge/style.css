@@ -1,1 +1,7 @@
 /* Complete the challenge by writing CSS below */
+
+.main-nav li:first-child {
+    border: none;
+    border-radius: 5px 0px 0px 5px;  
+}
+
