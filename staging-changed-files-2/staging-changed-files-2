@@ -5,4 +5,12 @@
 # Add the modified file to the staging area for committing.
 
  git add -A
+
+# 2 Commit the staged changes, with the message "Add plot twist". 
+# Use the -m option instead of the editor.
+
+ git commit -m"Add plot twist"
+
+ 
+
  
