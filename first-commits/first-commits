@@ -10,3 +10,8 @@
 
     git init
 
+# 3 Add the file chapter1.txt to the staging area for committing.
+
+    touch /novel/chapter1.txt
+    git add -A
+
