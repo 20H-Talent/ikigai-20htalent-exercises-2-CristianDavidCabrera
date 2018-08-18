@@ -6,3 +6,7 @@
 
     cd novel
 
+# 2 Initialize a new Git repo here in the current directory.
+
+    git init
+
