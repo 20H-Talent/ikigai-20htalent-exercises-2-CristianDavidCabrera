@@ -1,0 +1,8 @@
+#comand line. Change to into directory novel
+
+# 1 We're working on our first novel, and we want to track our changes in Git. 
+# But first, we need to change into the directory where our text files are. 
+# Using this shell prompt, change into the novel directory.
+
+    cd novel
+
