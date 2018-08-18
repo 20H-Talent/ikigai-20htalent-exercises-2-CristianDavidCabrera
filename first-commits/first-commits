@@ -15,3 +15,8 @@
     touch /novel/chapter1.txt
     git add -A
 
+# 4 Finally, commit the staged file, with a message of "Add chapter 1". 
+# Rather than letting Git launch an editor, specify your commit message on the command line: 
+# use the -m command line option, and specify your message between "quotation marks".
+
+    git commit -m "Add chapter 1"
