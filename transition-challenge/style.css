@@ -2,7 +2,8 @@
 
 .collapsed {
 	height: 0;
-	overflow: hidden;
+    overflow: hidden;
+    transition-property: all;
 }
 
 .expand:checked ~ .collapsed {
