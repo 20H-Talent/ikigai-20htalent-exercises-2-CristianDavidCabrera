@@ -8,7 +8,10 @@
 
 .icn {
     font-size: 1.25em;
-    &-succes{
+    &-succes {
         color:green;
+    }
+    &-warning {
+        color:red;
     }
 }
