@@ -5,3 +5,8 @@
   .img-author {
       @extend .roundy;
   }
+
+  %warning {
+      font-weight: bold;
+      color: red;
+  }
