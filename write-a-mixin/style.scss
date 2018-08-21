@@ -9,5 +9,6 @@ $btn-background: #dc143c;
 }
 
 a {
+    color: #f0f8ff;
     @include button;
 }
